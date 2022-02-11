@@ -1,1 +1,4 @@
 
+local keysys = loadstring(game:HttpGet("https://raw.githubusercontent.com/virshotss/Obama-Settings/main/Settings/Key%20Manager",true)()
+
+keysys:Key("Obama Script Hub","obamasexy",{"https://raw.githubusercontent.com/EdgeIY/infiniteyield/master/source"})
